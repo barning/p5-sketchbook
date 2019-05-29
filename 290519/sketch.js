@@ -1,6 +1,6 @@
 var pointArray = [];
 function setup() {
-	createCanvas(windowWidth, windowHeight);
+	createCanvas(500, 500);
 }
 
 function draw() {
